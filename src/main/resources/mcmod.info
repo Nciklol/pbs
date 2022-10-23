@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "pbs",
+        "name": "Pbs",
+        "description": "RAHHHH",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "https://tristancamejo.com",
+        "updateUrl": "",
+        "authorList": ["twisttaan"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
